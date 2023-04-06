@@ -1,4 +1,13 @@
-header{
+.cabeçalho{
 background-color: #397A40;
 color: white ;
+
+
+}
+.cabeçalholista-item{
+    display: flex;
+    justify-content: center;
+}
+.cabeçalho-imagem{
+    width: 20%;
 }
