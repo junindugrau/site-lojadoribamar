@@ -1,13 +1,56 @@
-.cabeçalho{
-background-color: #397A40;
-color: white ;
+*{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
 
+.cabeçalholista-item{
+    padding-left: 500px;
+    display: flex;
+    justify-content:center;
 
 }
-.cabeçalholista-item{
-    display: flex;
-    justify-content: center;
+.fotoribeprodutos{
+    padding-bottom: 30px;
+    padding-inline: 30px;
 }
 .cabeçalho-imagem{
-    width: 20%;
+    width: 15%;
+    padding-left: 20px;
+    
+}
+
+.Produtos1{
+    width: 14% ;
+    padding-left: 40px;
+
+}
+.produtos2{
+width: 14%;
+padding-left: 200px;
+}
+.produtos3{
+    width: 15%;
+    padding-left: 300px;
+}
+.descontos{
+    width: 18%;
+padding-bottom: 50px ;
+    
+}
+.ardidas{
+    width: 19%;
+    
+}
+.pumba{
+    width: 16%;
+}
+.patrocinadores{
+    background-color: darkgreen; 
+    padding: 50px;
+    padding-left: 50px;
+}
+.sóvai{
+    color: black;
+    background-color: darkgreen;
 }

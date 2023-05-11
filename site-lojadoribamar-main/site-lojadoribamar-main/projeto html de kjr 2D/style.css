@@ -5,12 +5,24 @@
 }
 
 .cabeçalholista-item{
-    padding-left: 300px;
+    padding-left: 250px;
     display: flex;
     justify-content:center;
 
 }
 .cabeçalho-imagem{
     width: 15%;
-    padding-bottom: 300px;
+    padding-left: 20px;
+    
 }
+
+.Produtos1{
+    width:15% ;
+    padding-left: 40px;
+
+}
+.produtos2{
+width: 42%;
+}
+
+
