@@ -1,13 +1,47 @@
-.cabeçalho{
+*{
     margin: 0;
     padding: 0;
-    background-color:rgb(27, 85, 27); 
 }
 
-.abadepesquisa{
-    justify-content: center;
-    color: white;
+.preto{
+    background-color: black;
+    padding: 20px;
+    display: flex;
     
+}
+
+
+
+.cabeçalho{
+    margin: 0;
+    padding: 24px 0;
+    background-color:rgb(27, 85, 27); 
+    display: flex;
+    justify-content: center;
+
+}
+
+.lojadoribamar{
+    width: 25%; 
+ 
+padding-left: 50px;
+}
+
+
+
+.pesquisar{
+    background-color: white;
+   padding-right: 200px ;
+
+    display: inline-block;
+    color: gray;
+    
+
+}
+.Esportes{
+    color: white;
+    display: inline-block;
+    padding-left: 60vmax;
 }
 
 
@@ -34,11 +68,19 @@ padding-left: 200px;
     width: 15%;
     padding-left: 300px;
 }
-.descontos{
-    width: 18%;
-padding-bottom: 50px ;
+
+
     
+
+
+.produtos4{
+
+width: 15%;
+padding-left: 320px;
+
+
 }
+
 .ardidas{
     width: 19%;
     
@@ -48,8 +90,8 @@ padding-bottom: 50px ;
 }
 .patrocinadores{
     background-color: darkgreen; 
-    padding: 50px;
-    padding-left: 50px;
+    padding: 40px;
+    padding-left: 40px;
 }
 .sóvai{
     color: black;
